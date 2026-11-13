@@ -85,6 +85,7 @@ cinesearch-dashboard/
 
 ## ⚠️ Limitações
 
+- Este projeto compara as notas do TMDB entre os títulos coletados. Não é um ranking de qualidade geral do catálogo de cada plataforma.
 - Os dados são uma foto do momento da coleta e mudam com o tempo.
 - Títulos recém-lançados podem ter notas infladas nas primeiras semanas.
 - Algumas plataformas têm poucos títulos, então certas células do gráfico aparecem como `n<5` (poucos dados para calcular a média).
