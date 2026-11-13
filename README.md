@@ -99,4 +99,4 @@ cinesearch-dashboard/
 ## 👤 Autor
 
 **Gustavo Gomes**
-GitHub: [@gustavogomes-data](https://github.com/gustavogomes-data)
+Linkedin: [gustavogomes](https://www.linkedin.com/in/gustavo-gomes-22a7aa305/)
