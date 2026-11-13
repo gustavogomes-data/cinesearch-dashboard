@@ -6,9 +6,7 @@ Os dados vêm da API do TMDB (notas, votos, popularidade) e do JustWatch (onde c
 
 📸 Prévia
 
-Coloque aqui os prints das duas telas (salvos na pasta docs):
-
-![CineSearch](docs/pag1png)
+![CineSearch](docs/pag1.png)
 ![CineSearch-Analises](docs/pag2.png)
 ❓ Perguntas que o dashboard responde
 
